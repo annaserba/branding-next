@@ -1,0 +1,196 @@
+.banner {
+  background-color: #ffffff;
+  height: 997px;
+  overflow: hidden;
+  width: 1250px;
+}
+
+.banner .overlap {
+  height: 997px;
+  left: -1px;
+  position: relative;
+  width: 1251px;
+}
+
+.banner .element {
+  height: 26px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 86px;
+}
+
+.banner .overlap-group {
+  height: 996px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1251px;
+}
+
+.banner .rectangle {
+  background-color: #2b2c84;
+  height: 405px;
+  left: 1px;
+  position: absolute;
+  top: 592px;
+  width: 1250px;
+}
+
+.banner .group {
+  background-image: url(/static/img/group-41.svg);
+  background-size: 100% 100%;
+  height: 777px;
+  left: 107px;
+  position: absolute;
+  top: 0;
+  width: 1144px;
+}
+
+.banner .div {
+  background-color: #ffffff;
+  height: 12px;
+  left: 352px;
+  position: relative;
+  top: 724px;
+  width: 77px;
+}
+
+.banner .text-wrapper {
+  color: #ffffff;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 804px;
+  width: 932px;
+}
+
+.banner .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 0;
+  position: absolute;
+  top: 144px;
+}
+
+.banner .p {
+  color: #000000;
+  font-family: "Arial-Bold", Helvetica;
+  font-size: 62px;
+  font-weight: 700;
+  letter-spacing: -1px;
+  line-height: 64px;
+  margin-top: -1px;
+  position: relative;
+  width: 722px;
+}
+
+.banner .text-wrapper-2 {
+  color: #000000;
+  font-family: "Arial-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: relative;
+  width: 615px;
+}
+
+.banner .overlap-wrapper {
+  height: 597px;
+  left: 578px;
+  position: absolute;
+  top: 7px;
+  width: 668px;
+}
+
+.banner .overlap-2 {
+  height: 597px;
+  position: relative;
+}
+
+.banner .overlap-group-2 {
+  height: 597px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 668px;
+}
+
+.banner .img {
+  height: 597px;
+  left: 222px;
+  position: absolute;
+  top: 0;
+  width: 446px;
+}
+
+.banner .element-2 {
+  height: 482px;
+  left: 0;
+  position: absolute;
+  top: 59px;
+  width: 493px;
+}
+
+.banner .group-2 {
+  height: 167px;
+  left: 234px;
+  position: absolute;
+  top: 18px;
+  width: 91px;
+}
+
+.banner .vector {
+  height: 27px;
+  left: 330px;
+  position: absolute;
+  top: 105px;
+  width: 96px;
+}
+
+.banner .vector-2 {
+  height: 41px;
+  left: 470px;
+  position: absolute;
+  top: 277px;
+  width: 145px;
+}
+
+.banner .vector-3 {
+  height: 40px;
+  left: 45px;
+  position: absolute;
+  top: 12px;
+  width: 150px;
+}
+
+.banner .vector-4 {
+  height: 197px;
+  left: 631px;
+  position: absolute;
+  top: 395px;
+  width: 620px;
+}
+
+.banner .frame-2 {
+  height: 70px;
+  left: 1px;
+  position: absolute;
+  top: 440px;
+  width: 160px;
+}
+
+.banner .frame-3 {
+  height: 70px;
+  left: 187px;
+  position: absolute;
+  top: 440px;
+  width: 226px;
+}
